@@ -1,0 +1,4 @@
+# GitHub 仅作产品引流页，禁止推送源码与业务数据
+*
+!README.md
+!.gitignore
